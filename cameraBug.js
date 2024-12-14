@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with a custom camera component. The camera preview freezes intermittently, requiring a restart of the app to resume functionality.  This issue is not consistently reproducible, making debugging challenging. It seems tied to memory management or interaction with other Expo modules, as it only occurs in more complex apps.
